@@ -1,4 +1,4 @@
-# about fwu-sodix
+### über fwu-sodix
 ## Was ist SODIX?
 SODIX bildet das Rückgrat eines einzigartigen Projekts: dem Aufbau einer gemeinsamen Infrastruktur für Bildungsmedien, für alle deutschen Länder. Dabei greift SODIX auf qualitativ hochwertige Materialien und Bildungsinhalte aus mittlerweile mehr als 1.000 Quellen zu.
 
